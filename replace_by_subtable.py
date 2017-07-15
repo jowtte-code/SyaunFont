@@ -1,6 +1,6 @@
 #!/bin/env python
 # -*- coding: utf-8 -*-
-# fontforge -script
+#
 import fontforge
 
 from pprint import pprint
