@@ -1,0 +1,18 @@
+#!/usr/bin/fontforge -script
+# -*- coding: utf-8 -*-
+
+Open("SyaunMinchoR.sfd");
+Generate("SyaunMinchoR.ttf");
+Close();
+
+Open("SyaunMinchoM.sfd");
+Generate("SyaunMinchoM.ttf");
+Close();
+
+Open("SyaunGothicR.sfd");
+Generate("SyaunGothicR.ttf");
+Close();
+
+Open("SyaunGothicM.sfd");
+Generate("SyaunGothicM.ttf");
+Close();
