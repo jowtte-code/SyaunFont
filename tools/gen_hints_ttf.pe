@@ -1,0 +1,15 @@
+#!/usr/bin/fontforge -script
+# -*- coding: utf-8 -*-
+
+i=1
+while ( i<$argc )
+  Open($argv[i])
+  SelectAll()
+  AutoHint()
+  AutoInstr()
+  Save()
+  Generate($argv[i]:r + ".ttf")
+  Close()
+
+  i = i+1
+endloop

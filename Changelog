@@ -1,3 +1,12 @@
+syaun-font (1.2)
+
+  * 1.2
+  * added: gen_hints_ttf.pe gen_ttf.pe
+  * fixed: 𥒎 𥈞 𢡛 𡸳 霙 繍 嘨 欝 靄 雘 蠮
+  * chang: 体
+
+ -- 2017-08-09
+
 syaun-font (1.1)
 
   * 1.1
