@@ -21,7 +21,7 @@ SyaunGothicM.ttf = 「社運ゴシックMonospace」(等幅フォント)
 
 
 ## sample
-version 0.4  
+version 0.1  
 ![サンプル1](https://user-images.githubusercontent.com/10948894/27830649-5afdc900-6102-11e7-8d7f-9d4c3df4f060.png "サンプル1")  
 
 version 1.0  
